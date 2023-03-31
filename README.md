@@ -3,7 +3,7 @@ Sistemas Operativos II - Laboratorio II IPC
 # Laboratorio 2 - Interprocess Communication Advanced
 
 ## Introducción
-Continuando el estudio de los mecanismos de IPC que nos provee el Sistema Operativo, hemos aprnedido el más utizado: sockets.
+Continuando el estudio de los mecanismos de IPC que vimos en el Laboratorio I, ahora haremos uso del más utizado: sockets.
 
 ## Objetivo
 El objetivo del presente trabajo práctico es que el estudiante sea capaz de diseñar e implementar un software que haga uso de los mecanismos de IPC que provee el Sistema Operativo, implementando lo visto en el teórico, práctico y haciendo uso todos los conocimientos adquiridos en Ingeniería de Software y Sistemas Operativos I y los desarollado en el Laboratorio I.
